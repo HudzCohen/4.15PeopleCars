@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactPeopleCars.Web", "ReactPeopleCars.Web\ReactPeopleCars.Web.csproj", "{342D9F40-74BF-4ACB-8590-76F6EC3C1911}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactPeopleCars.Data", "ReactPeopleCars.Data\ReactPeopleCars.Data.csproj", "{CDA5B596-1E69-48BB-86AB-2D9FC4224DB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{342D9F40-74BF-4ACB-8590-76F6EC3C1911}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{342D9F40-74BF-4ACB-8590-76F6EC3C1911}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{342D9F40-74BF-4ACB-8590-76F6EC3C1911}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{342D9F40-74BF-4ACB-8590-76F6EC3C1911}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDA5B596-1E69-48BB-86AB-2D9FC4224DB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDA5B596-1E69-48BB-86AB-2D9FC4224DB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDA5B596-1E69-48BB-86AB-2D9FC4224DB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDA5B596-1E69-48BB-86AB-2D9FC4224DB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
